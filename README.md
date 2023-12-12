@@ -14,7 +14,7 @@
 ---
 <p><strong><img src="https://github.com/Dzianis-Brahinets/Database/assets/153221763/b7475214-61ae-4baf-9f2e-f7382024b90d" title="MySQL" alt="MySQL" width="70" height="30"/> Задание 2 MongoDB </strong></p>
 
-Предусловия: создайте аккаунт/окружение в MongoDB Atlas и скачайте MongoDB Compass.
+Предусловия: создайть аккаунт/окружение в MongoDB Atlas и скачать MongoDB Compass.
 1. Скачать дампы базы данных <a href="https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB"> отсюда  </a>
 2. Импортировать данные таблиц в базу данных MongoDB
 3. Выполнить задания, которые находятся <a href="https://docs.google.com/document/d/1RRKJ7l_ORhhXD_EG1KvulKLImNnTzg2ox7sGSYNwB5M/edit?usp=sharing">здесь </a>
