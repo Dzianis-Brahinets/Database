@@ -1,5 +1,5 @@
 ### Работа с базами данных в MySQL и MongoDB
-<hr>
+---
 <p><strong> Задание 1 MySQL </strong></p>
 
 Предусловия: установить MySQL Server и MySQL Workbench
@@ -11,10 +11,10 @@
 <li>  <a href="https://docs.google.com/document/d/1IGay6ocXgNI42ya78m8ZCPy8t9s-G1nOhLcJSCDMzxo/edit?usp=sharing"> 1.1 Решение  </a>  </li>
 <li>  <a href="https://docs.google.com/document/d/1pLx9T-apCRfYhYy5OcTqWmSwUzVyopl7jmxK3PDH4-w/edit?usp=sharing"> 1.2 Решение  </a>  </li>
 
-<hr>
+---
 <p><strong> Задание 2 MongoDB </strong></p>
 
-Предусловия: создайте аккаунт/окружение в MongoDB Atlas и скачайте MongoDB Compass.
+Предусловия: создайть аккаунт/окружение в MongoDB Atlas и скачать MongoDB Compass.
 1. Скачать дампы базы данных <a href="https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB"> отсюда  </a>
 2. Импортировать данные таблиц в базу данных MongoDB
 3. Выполнить задания, которые находятся <a href="https://docs.google.com/document/d/1RRKJ7l_ORhhXD_EG1KvulKLImNnTzg2ox7sGSYNwB5M/edit?usp=sharing">здесь </a>
