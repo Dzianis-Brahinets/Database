@@ -1,7 +1,7 @@
-###  <img src="https://www.cloud4y.ru/upload/iblock/cb5/database_as_a_service.jpg" title="youtrack" alt="youtrack" width="120" height="50"/> Работа с базами данных в MySQL и MongoDB
+###  <img src="https://www.cloud4y.ru/upload/iblock/cb5/database_as_a_service.jpg" title="database" alt="database" width="120" height="50"/> Работа с базами данных в MySQL и MongoDB
 <hr>
 Мной были выполнены простые и усложненные запросы к базам данных в MySQL и MongoDB.<br>
- С заданием и решением к ним можно ознакомится ниже.
+ С заданием и решением к ним можно ознакомиться ниже.
  <hr>
 <p><strong> Задание 1 в MySQL </strong></p>
 
