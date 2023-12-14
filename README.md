@@ -1,6 +1,9 @@
-### Работа с базами данных в MySQL и MongoDB
----
-<p><strong> Задание 1 MySQL </strong></p>
+###  <img src="https://www.cloud4y.ru/upload/iblock/cb5/database_as_a_service.jpg" title="youtrack" alt="youtrack" width="120" height="50"/> Работа с базами данных в MySQL и MongoDB
+<hr>
+Мной были выполнены простые и усложненные запросы к базам данных в MySQL и MongoDB.<br>
+ С заданием и решением к ним можно ознакомится ниже.
+ <hr>
+<p><strong> Задание 1 в MySQL </strong></p>
 
 Предусловия: установить MySQL Server и MySQL Workbench
 1. Скачать дампы базы данных Hogwarts <a href="https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB"> отсюда  </a> 
@@ -12,7 +15,7 @@
 <li>  <a href="https://docs.google.com/document/d/1pLx9T-apCRfYhYy5OcTqWmSwUzVyopl7jmxK3PDH4-w/edit?usp=sharing"> 1.2 Решение  </a>  </li>
 
 ---
-<p><strong> Задание 2 MongoDB </strong></p>
+<p><strong> Задание 2 в MongoDB </strong></p>
 
 Предусловия: создайть аккаунт/окружение в MongoDB Atlas и скачать MongoDB Compass.
 1. Скачать дампы базы данных <a href="https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB"> отсюда  </a>
